@@ -1,4 +1,3 @@
 # Programacion
 
-Aqui se subirán los ejercicios del Onboading Launch X
-Autor: Jesus Castañeda Espinosa
+Aqui se encuentrán las katas del Onboarding Launch X de Jesus Castañeda Espinosa
